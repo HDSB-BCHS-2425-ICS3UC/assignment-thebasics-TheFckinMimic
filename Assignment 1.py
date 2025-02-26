@@ -56,6 +56,8 @@ print("If I was a differnce I would be:", difference)
 
 #This is multiplication
 product = 2*3*4
+print("If I was a product I would be:", product)
+
 
 #This is 2 to the power of 4
 quotient = 31/8
