@@ -59,9 +59,23 @@ product = 2*3*4
 print("If I was a product I would be:", product)
 
 
-#This is 2 to the power of 4
-quotient = 31/8
+#This is a quotent function
+quot = 31/8
+print("An example of a quotent would be:", quot)
+
+
+#This is an exponent function
 exponent = 2**4
+print("An example of exponent would be:", exponent)
+
+
+#This is a quotent float function
+quot_float = 50.0/10
+print("An example of quotent float would be:", quot_float)
+
+
+#This is a modulus function
 rem_1 = 24%6
 rem_2 = 24%5
 rem_3 = 24%7
+print("An example of modulus would be:", str)
